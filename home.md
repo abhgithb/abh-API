@@ -1,6 +1,6 @@
 # Shipping API - UAPIM Demo
 
-Show a single shipping order if current User has access permissions to it.
+Show a single shipping order if current User has access permissions to it.abh
 
 **URL** : `/api/shipping/:pk/`
 
